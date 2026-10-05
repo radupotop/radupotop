@@ -1,3 +1,1 @@
-### Codeberg 🗻
-
-Codeberg repos at <https://codeberg.org/radupotop>
+Codeberg repos at <https://codeberg.org/radupotop> 🗻
